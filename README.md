@@ -1,6 +1,6 @@
-Taskify
+TaskVault
 
-Taskify is a simple command-line To-Do List application built with Python.
+TaskVault is a simple command-line To-Do List application built with Python.
 
 Features
 
